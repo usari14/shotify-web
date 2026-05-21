@@ -4,7 +4,7 @@ const isProduction = process.env.NODE_ENV === "production";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: isProduction ? "/shotify" : "",
+  basePath: isProduction ? "/shotify-web" : "",
   images: {
     unoptimized: true,
   },
