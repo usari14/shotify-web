@@ -1,0 +1,363 @@
+================================================================================
+SHOTIFY AI — WEBSITE & MARKETING CONTENT
+================================================================================
+App name: Shotify AI
+Shopify handle: shotify-ai
+Platform: Embedded Shopify app (built on Gadget)
+Primary audience: Shopify merchants who want faster, on-brand product visuals and shoppable social content without a full photo studio.
+
+Use the sections below on your marketing site, Shopify App Store listing, landing pages, and ads. Replace [YOUR_URL], [SUPPORT_EMAIL], and pricing placeholders with your live details.
+
+================================================================================
+1. HERO / TAGLINE OPTIONS
+================================================================================
+
+Option A (recommended):
+  Shotify AI — Studio-quality product photos, shoppable video, and Instagram publishing from inside Shopify.
+
+Option B:
+  Turn your catalog into scroll-stopping visuals. Generate, publish, and sell — without leaving your store admin.
+
+Option C (short):
+  AI product photography + shoppable video + Instagram — built for Shopify merchants.
+
+Subheadline:
+  Pick a product, choose a style, generate new images, apply them to your listings, run shoppable video widgets on your storefront, and post to Instagram — all from one embedded app.
+
+Primary CTA:
+  Install Shotify AI on Shopify
+
+Secondary CTA:
+  See how it works
+
+================================================================================
+2. ELEVATOR PITCH (50 words)
+================================================================================
+
+Shotify AI helps Shopify stores create professional product photos using AI, manage a searchable library of every generation, add shoppable video carousels to the theme, connect Instagram for direct publishing, and track usage with built-in analytics. Less time on shoots and edits, more time selling.
+
+================================================================================
+3. LONG DESCRIPTION (App Store / About page)
+================================================================================
+
+Running a Shopify store means you always need better product images — for ads, PDPs, collections, email, and social. Shotify AI is an all-in-one visual commerce app that lives inside your Shopify admin.
+
+Generate new product photography from your existing catalog images and custom prompts, or use ready-made templates for studio, lifestyle, seasonal, and luxury looks. Review results before anything goes live, then apply images as featured, additional, or replacement media on the product — synced automatically to Shopify Files.
+
+Keep every approved shot in your in-app Library with search by product or prompt. When you are ready to go social, connect your Instagram Professional account and publish from the library with captions.
+
+Engage shoppers on-site with Shoppable Video widgets: upload image or video slides, link products, publish to Shopify metaobjects, and drop a theme block on any page. Track widget engagement with storefront analytics.
+
+Flexible plans and credit-based generation (via Mantle billing) scale with your catalog size. Whether you are launching SKUs weekly or refreshing a seasonal collection, Shotify AI is built to move creative work out of Photoshop and into your daily workflow.
+
+================================================================================
+4. KEY FEATURES (main selling points)
+================================================================================
+
+--- AI PRODUCT PHOTO GENERATION ---
+• Generate new product images from up to 6 reference photos from your Shopify product (or variant).
+• Custom text prompts for full creative control.
+• One-click template gallery: Studio, Lifestyle, Brand, and Seasonal styles (8+ curated presets).
+• Background job processing for template-based runs — start a job and poll until ready.
+• Review generated images in-app before applying to your store.
+• Apply to Shopify as featured image, add to gallery, or replace existing media.
+• Images upload to Shopify Files and save to your permanent in-app Library.
+
+--- TEMPLATE GALLERY ---
+• Pre-built prompts optimized for e-commerce (white studio, gradient, outdoor lifestyle, flat lay, dark luxury, holiday, summer, and more).
+• Credit-aware templates (some premium styles use more credits).
+• Pick product → enqueue generation → review on the generate page.
+
+--- PRODUCT LIBRARY ---
+• Automatic history of every saved generation.
+• Search by product title or prompt.
+• Quick path back to the source product or publish flow.
+• Publish saved images to Instagram from the library composer (when connected).
+
+--- SHOPPABLE VIDEO WIDGETS ---
+• Create widgets with title, subtitle, and multiple media slides (image or video).
+• Link slides to Shopify products for shoppable CTAs.
+• Staged media upload to Shopify with readiness polling.
+• Publish/unpublish widgets to Shopify metaobjects (storefront-readable).
+• Theme app extension: carousel or card grid layouts, autoplay, captions, product links, styling controls.
+• Enable/disable widgets without deleting content.
+• Storefront analytics for widget interactions (POST to app backend).
+
+--- INSTAGRAM DIRECT CONNECTION ---
+• OAuth connect for Instagram Professional (Business or Creator) accounts.
+• Secure token storage; reconnect and disconnect from Connections page.
+• Publish posts with caption from the app (image URL or upload flow).
+• Background post processing queue with status tracking.
+• Webhook support for Instagram/Meta events (comments, live comments when app is published).
+
+--- ANALYTICS DASHBOARD ---
+• Usage metrics for AI photo generation (Mantle-powered).
+• Date range filtering and trend charts (line/bar).
+• Understand volume and patterns over time for planning credits and campaigns.
+
+--- BILLING & PLANS ---
+• Subscription plans via Mantle (hosted billing session from Plans page).
+• Credit-based consumption on generations (template credits vary).
+• Dashboard prompts when a plan is required before generating.
+
+--- BUILT FOR SHOPIFY ---
+• Embedded admin app (Polaris UI, App Bridge).
+• Native product picker and product media integration.
+• GDPR webhook compliance, shop-scoped data, secure multi-tenant architecture.
+
+================================================================================
+5. DEFAULT TEMPLATE NAMES (for website feature list)
+================================================================================
+
+Use these on a "Styles included" section:
+
+1. Studio White — Clean white seamless studio shot (Popular)
+2. Gradient Haze — Soft pastel gradient, dreamy light (New)
+3. Natural Outdoor — Lifestyle outdoor, golden hour greenery
+4. Coffee Table — Warm wooden table, cozy lifestyle props
+5. Flat Lay — Overhead editorial flat lay (Popular)
+6. Dark Luxury — Moody charcoal/black premium lighting (Premium, 2 credits)
+7. Holiday Festive — Seasonal lights and warm holiday accents (Seasonal)
+8. Summer Vibes — Bright beach-inspired summer aesthetic (Seasonal)
+
+Categories: Studio | Lifestyle | Brand | Seasonal
+
+================================================================================
+6. BEST USAGE — RECOMMENDED WORKFLOWS
+================================================================================
+
+--- WORKFLOW A: Quick win for a single SKU ---
+1. Install app and choose a plan.
+2. Dashboard → Select a Product (or Products page).
+3. Pick up to 6 reference images from the product gallery.
+4. Enter a short prompt OR go to Templates for a one-click style.
+5. Generate → review 1–4 results → Apply as featured or additional image.
+6. Image appears in Library and on the live product in Shopify.
+
+Best for: new launches, hero image refresh, A/B testing a new look.
+
+--- WORKFLOW B: Batch refresh with templates ---
+1. Browse Templates → pick a style (e.g. Studio White).
+2. Select product → job queues in background.
+3. Open Jobs (or wait for redirect) until status is complete.
+4. Review on generate page with ?jobId= → apply best shot.
+5. Repeat for top sellers in your catalog.
+
+Best for: seasonal campaigns, collection-wide visual consistency.
+
+--- WORKFLOW C: Social + onsite together ---
+1. Generate and apply strong product images (Workflow A or B).
+2. Connections → Connect Instagram (Professional account).
+3. Library → open image → compose caption → Publish to Instagram.
+4. Shoppable Videos → create widget with product-linked video slides.
+5. Online Store → Theme Editor → add Shoppable Videos block → select widget handle.
+6. Monitor Analytics for generation usage and widget performance.
+
+Best for: brands running paid social + onsite conversion from the same assets.
+
+--- WORKFLOW D: Shoppable video only ---
+1. Shoppable Videos → New widget.
+2. Upload cover + slide media (video or image); link each slide to a product.
+3. Save & Publish → confirm metaobject sync.
+4. Theme → add block to homepage or collection template.
+5. Toggle widget enabled/disabled from list view without republishing theme code.
+
+Best for: fashion, beauty, electronics — categories where video drives conversion.
+
+================================================================================
+7. WHO IT'S FOR
+================================================================================
+
+• Shopify merchants without in-house photographers.
+• DTC brands refreshing creatives weekly for Meta, TikTok, and email.
+• Stores with large catalogs needing consistent studio-style shots.
+• Merchants adding shoppable UGC-style video to PDPs and landing pages.
+• Brands publishing product launches to Instagram from the same tool they use for PDP images.
+
+Not ideal for: merchants who only need generic AI art unrelated to catalog products (Shotify is product- and Shopify-centric).
+
+================================================================================
+8. HOW IT WORKS (simple 4-step block for landing page)
+================================================================================
+
+Step 1 — Connect your store
+  Install Shotify AI from the Shopify App Store. Open the app from Apps in your admin.
+
+Step 2 — Generate visuals
+  Select products, choose templates or custom prompts, and generate AI photos from your existing images.
+
+Step 3 — Apply & organize
+  Push the best shots to product media. Everything saves to your Library for search and reuse.
+
+Step 4 — Sell everywhere
+  Publish to Instagram, add shoppable video widgets to your theme, and track usage in Analytics.
+
+================================================================================
+9. SHOPIFY THEME / STOREFRONT SETUP (shoppable video)
+================================================================================
+
+Short instructions for your docs/FAQ page:
+
+1. In Shotify AI, create and publish a Shoppable Widget (status: published, sync complete).
+2. In Shopify Admin → Online Store → Themes → Customize.
+3. Add the "Shoppable Videos" app block to the desired template/section.
+4. Enter the widget handle (from the app widget list).
+5. Adjust layout: carousel vs cards, autoplay, arrows, aspect ratio, CTA text ("Visit Product").
+6. Save theme. Widget reads live data from Shopify metaobjects — no manual JSON editing.
+
+================================================================================
+10. INSTAGRAM SETUP (for FAQ / help center)
+================================================================================
+
+Requirements:
+• Instagram Professional account (Business or Creator).
+• Meta app configured with valid OAuth redirect URL for your Shotify environment.
+• For development: add Instagram Tester role in Meta Developer dashboard.
+
+In the app:
+• Connections → Connect Instagram → approve permissions in popup.
+• To remove: Disconnect (does not open login). To link again: Reconnect Account.
+• Publish from Library with caption when status shows Connected.
+
+Note: Revoking access in Instagram/Facebook settings is separate from Disconnect inside Shotify.
+
+================================================================================
+11. FEATURE COMPARISON TABLE (copy for website)
+================================================================================
+
+| Capability                    | Shotify AI |
+|-------------------------------|------------|
+| AI product photo generation   | Yes        |
+| Custom prompts                | Yes        |
+| Style templates               | Yes        |
+| Apply to Shopify product media| Yes        |
+| Generation library            | Yes        |
+| Background template jobs      | Yes        |
+| Shoppable video widgets       | Yes        |
+| Theme app extension           | Yes        |
+| Instagram publishing          | Yes        |
+| Usage analytics               | Yes        |
+| Embedded in Shopify admin     | Yes        |
+
+================================================================================
+12. BENEFITS (bullet list for landing page)
+================================================================================
+
+• Save money on photo shoots and freelance retouching.
+• Ship new SKUs faster with on-brand visuals in minutes.
+• Keep all generations in one searchable library tied to products.
+• No exporting files manually — direct Shopify Files and product media sync.
+• Turn the same assets into Instagram posts without switching tools.
+• Add shoppable video to your storefront without custom theme development.
+• Credit-based plans align cost with actual usage.
+• Built for Shopify permissions, GDPR, and embedded admin UX merchants already know.
+
+================================================================================
+13. FAQ (website / support)
+================================================================================
+
+Q: Do I need professional photos before using Shotify?
+A: You need at least one product image from Shopify to use as reference. More references (up to 6) usually improve consistency.
+
+Q: Will AI images replace my photos automatically?
+A: No. You review results and choose how to apply them (featured, add, or replace).
+
+Q: What image styles are included?
+A: Eight+ templates across Studio, Lifestyle, Brand, and Seasonal categories, plus fully custom prompts.
+
+Q: How do credits work?
+A: Templates show credit cost (most use 1 credit; premium styles may use more). Subscribe via Plans; generation consumes credits per Mantle billing.
+
+Q: Can I use Shotify without Instagram?
+A: Yes. Photo generation, library, and shoppable video work independently. Instagram is optional for publishing.
+
+Q: What account do I need for Instagram?
+A: Instagram Professional (Business or Creator). Personal accounts are not supported for the Graph API publishing flow.
+
+Q: How do shoppable videos appear on my store?
+A: Publish a widget in the app, then add the Shoppable Videos theme block and select your widget handle.
+
+Q: Is my data shop-specific?
+A: Yes. Connections, generations, widgets, and library entries are scoped to your Shopify shop.
+
+Q: Can I disconnect Instagram without logging in again?
+A: Yes. Use the Disconnect button on Connections. Reconnect opens OAuth only when you choose Reconnect.
+
+================================================================================
+14. SEO — META TITLE & DESCRIPTION
+================================================================================
+
+Meta title (60 chars):
+  Shotify AI | AI Product Photos & Shoppable Video for Shopify
+
+Meta description (155 chars):
+  Generate studio-quality product images, run shoppable video widgets, publish to Instagram, and track usage — all inside your Shopify admin. Install Shotify AI.
+
+Keywords (natural use in copy):
+  Shopify AI product photography, AI product images Shopify, shoppable video Shopify app, Instagram publish Shopify, product photo generator, e-commerce AI images
+
+================================================================================
+15. SOCIAL PROOF PLACEHOLDERS (fill when you have data)
+================================================================================
+
+• "Cut our time-to-launch visuals from days to under an hour."
+• "Templates gave us a consistent look across 200+ SKUs."
+• "Shoppable video on the homepage lifted engagement on our hero collection."
+
+[Add merchant quotes, logos, and metrics when available.]
+
+================================================================================
+16. PRICING PAGE COPY (structure — fill exact prices)
+================================================================================
+
+Headline:
+  Plans that scale with your catalog
+
+Subtext:
+  Choose a subscription that includes monthly generation credits. Premium templates may use additional credits per run. Upgrade anytime from the in-app Plans page.
+
+Suggested plan framing (customize amounts):
+  • Starter — Best for testing AI on a handful of products each month.
+  • Growth — For stores refreshing creatives weekly across collections.
+  • Pro — High-volume catalogs, teams, and seasonal campaign bursts.
+
+Footer line:
+  All plans include access to templates, library, shoppable video tools, and analytics. Instagram publishing requires a connected Professional account.
+
+================================================================================
+17. CALL-TO-ACTION SNIPPETS
+================================================================================
+
+• Install free on Shopify
+• Start generating today
+• Browse templates inside your admin
+• Connect Instagram in one click
+• Add shoppable video to your theme in minutes
+• View your generation library
+• Upgrade your plan for more credits
+
+================================================================================
+18. NAVIGATION LABELS (suggested marketing site menu)
+================================================================================
+
+Features | How it works | Templates | Shoppable Video | Instagram | Pricing | FAQ | Install
+
+================================================================================
+19. LEGAL / TRUST FOOTER (short)
+================================================================================
+
+Shotify AI is a third-party Shopify application. Product images are generated using AI; you are responsible for reviewing accuracy, trademarks, and advertising compliance before publishing. Instagram and Meta are trademarks of their respective owners. Shopify is a trademark of Shopify Inc.
+
+Support: [SUPPORT_EMAIL]
+Privacy policy: [YOUR_PRIVACY_URL]
+Terms: [YOUR_TERMS_URL]
+
+================================================================================
+20. ONE-PARAGRAPH PRESS / PARTNER BLURB
+================================================================================
+
+Shotify AI is a Shopify embedded application that combines AI product photography, a merchant media library, shoppable video theme widgets backed by Shopify metaobjects, and Instagram Professional publishing with usage analytics. Merchants select catalog products, apply curated or custom visual styles, sync results to product media, and extend the same assets to social and onsite video experiences without leaving the Shopify admin.
+
+================================================================================
+END OF FILE — Update pricing, URLs, and screenshots references before publishing.
+================================================================================
