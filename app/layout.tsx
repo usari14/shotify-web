@@ -25,6 +25,11 @@ export const metadata: Metadata = {
       "Generate studio-quality product images, run shoppable video widgets, publish to Instagram, and track usage — all inside your Shopify admin.",
     type: "website",
   },
+  icons: {
+    icon: "/icon.svg",
+    shortcut: "/icon.svg",
+    apple: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
