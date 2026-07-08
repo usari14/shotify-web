@@ -3,9 +3,9 @@ import Link from "next/link";
 import { LuArrowLeft, LuExternalLink } from "react-icons/lu";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Shotify AI",
+  title: "Privacy Policy | Pixelify",
   description:
-    "Shotify AI privacy policy — how we collect, use, and protect merchant data inside the Shopify embedded app.",
+    "Pixelify privacy policy — how we collect, use, and protect merchant data inside the Shopify embedded app.",
 };
 
 const lastUpdated = "May 21, 2026";
@@ -21,7 +21,7 @@ export default function PrivacyPolicyPage() {
             className="flex items-center gap-2.5 text-sm font-medium text-black/60 hover:text-[#7c5cfc] transition-colors"
           >
             <LuArrowLeft size={16} />
-            Back to Shotify AI
+            Back to Pixelify
           </Link>
           <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#7c5cfc] to-[#00c4cc] flex items-center justify-center">
@@ -39,7 +39,7 @@ export default function PrivacyPolicyPage() {
               </svg>
             </div>
             <span className="text-lg font-bold bg-gradient-to-r from-[#7c5cfc] to-[#00c4cc] bg-clip-text text-transparent">
-              Shotify AI
+              Pixelify
             </span>
           </div>
         </div>
@@ -53,7 +53,7 @@ export default function PrivacyPolicyPage() {
             Privacy Policy
           </h1>
           <p className="text-lg text-black/60 leading-relaxed max-w-2xl">
-            Shotify AI is a Shopify embedded application. This Privacy Policy explains how
+            Pixelify is a Shopify embedded application. This Privacy Policy explains how
             we collect, use, disclose, and safeguard your information when you install and
             use our application through the Shopify platform.
           </p>
@@ -63,10 +63,10 @@ export default function PrivacyPolicyPage() {
           {/* 1. Overview */}
           <Section title="1. Overview">
             <P>
-              {`Shotify AI ("we," "our," or "us") is committed to protecting the privacy of Shopify merchants ("you" or "your") who install and use our application. This policy describes our data handling practices in compliance with applicable data protection laws, including the General Data Protection Regulation (GDPR) where applicable.`}
+              {`Pixelify ("we," "our," or "us") is committed to protecting the privacy of Shopify merchants ("you" or "your") who install and use our application. This policy describes our data handling practices in compliance with applicable data protection laws, including the General Data Protection Regulation (GDPR) where applicable.`}
             </P>
             <P>
-              By installing Shotify AI, you agree to the collection and use of information
+              By installing Pixelify, you agree to the collection and use of information
               in accordance with this policy. If you do not agree, please do not install or
               use the application.
             </P>
@@ -76,7 +76,7 @@ export default function PrivacyPolicyPage() {
           <Section title="2. Information We Collect">
             <SubTitle>2.1 Information from Shopify</SubTitle>
             <P>
-              When you install Shotify AI through the Shopify App Store, we receive access
+              When you install Pixelify through the Shopify App Store, we receive access
               to certain data from your Shopify store via the Shopify API. This may include:
             </P>
             <UL>
@@ -162,7 +162,7 @@ export default function PrivacyPolicyPage() {
           {/* 4. AI Image Generation & Third-Party Services */}
           <Section title="4. AI Image Generation & Third-Party Services">
             <P>
-              Shotify AI relies on the following third-party services to deliver core
+              Pixelify relies on the following third-party services to deliver core
               functionality. Each sub-processor is bound by data processing agreements
               consistent with this policy:
             </P>
@@ -184,7 +184,7 @@ export default function PrivacyPolicyPage() {
                 access token is stored securely and only used for publishing at your direction.
               </li>
               <li>
-                <strong>Gadget (hosting platform):</strong> Shotify AI is built on the Gadget
+                <strong>Gadget (hosting platform):</strong> Pixelify is built on the Gadget
                 platform, which provides our application hosting, database, and
                 infrastructure. Gadget processes data as our infrastructure provider under
                 strict data protection terms.
@@ -291,10 +291,10 @@ export default function PrivacyPolicyPage() {
             <P>
               To exercise any of these rights, contact us at{" "}
               <a
-                href="mailto:support@shotify.ai"
+                href="mailto:support@pixelify.ai"
                 className="text-[#7c5cfc] hover:underline"
               >
-                support@shotify.ai
+                support@pixelify.ai
               </a>
               . We will respond within 30 days as required by applicable law. You also have
               the right to lodge a complaint with your local data protection authority.
@@ -304,7 +304,7 @@ export default function PrivacyPolicyPage() {
           {/* 8. Cookies & Tracking */}
           <Section title="8. Cookies & Tracking">
             <P>
-              {`As an embedded Shopify application, Shotify AI operates within the Shopify admin iframe and relies on Shopify's session management. We do not set our own cookies for marketing or tracking purposes.`}
+              {`As an embedded Shopify application, Pixelify operates within the Shopify admin iframe and relies on Shopify's session management. We do not set our own cookies for marketing or tracking purposes.`}
             </P>
             <P>
               The shoppable video storefront component may collect anonymized interaction
@@ -345,7 +345,7 @@ export default function PrivacyPolicyPage() {
           {/* 10. Children's Privacy */}
           <Section title="10. Children's Privacy">
             <P>
-              Shotify AI is a business-to-business application designed for Shopify
+              Pixelify is a business-to-business application designed for Shopify
               merchants. We do not knowingly collect personal information from children
               under the age of 16. If we become aware that we have inadvertently collected
               such information, we will delete it promptly.
@@ -355,7 +355,7 @@ export default function PrivacyPolicyPage() {
           {/* 11. International Data Transfers */}
           <Section title="11. International Data Transfers">
             <P>
-              Shotify AI is hosted on infrastructure that may process data in multiple
+              Pixelify is hosted on infrastructure that may process data in multiple
               regions. By using our application, you acknowledge that your data may be
               transferred to and processed in countries outside your jurisdiction. We ensure
               that any such transfers comply with applicable data protection laws through
@@ -375,7 +375,7 @@ export default function PrivacyPolicyPage() {
               <li>{`Updating the "Last updated" date at the top of this page.`}</li>
             </UL>
             <P>
-              Continued use of Shotify AI after changes take effect constitutes acceptance
+              Continued use of Pixelify after changes take effect constitutes acceptance
               of the revised policy.
             </P>
           </Section>
@@ -390,17 +390,17 @@ export default function PrivacyPolicyPage() {
               <div className="flex items-center gap-2 text-sm">
                 <span className="font-semibold w-16 text-black/50">Email:</span>
                 <a
-                  href="mailto:support@shotify.ai"
+                  href="mailto:support@pixelify.ai"
                   className="text-[#7c5cfc] hover:underline inline-flex items-center gap-1"
                 >
-                  support@shotify.ai
+                  support@pixelify.ai
                   <LuExternalLink size={12} />
                 </a>
               </div>
               <div className="flex items-start gap-2 text-sm">
                 <span className="font-semibold w-16 text-black/50 shrink-0">App:</span>
                 <span>
-                  {`Shotify AI — Available on the Shopify App Store. Search for "Shotify AI" in your Shopify admin.`}
+                  {`Pixelify — Available on the Shopify App Store. Search for "Pixelify" in your Shopify admin.`}
                 </span>
               </div>
             </div>
@@ -417,7 +417,7 @@ export default function PrivacyPolicyPage() {
             className="inline-flex items-center gap-3 px-6 py-3 rounded-xl bg-gradient-to-r from-[#7c5cfc] to-[#00c4cc] text-white font-semibold text-sm shadow-lg shadow-[#7c5cfc]/20 hover:shadow-xl hover:shadow-[#7c5cfc]/30 transition-all"
           >
             <LuArrowLeft size={16} />
-            Back to Shotify AI
+            Back to Pixelify
           </Link>
         </div>
       </main>
@@ -426,7 +426,7 @@ export default function PrivacyPolicyPage() {
       <footer className="border-t border-black/5 bg-white/50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-black/30">
-            &copy; {new Date().getFullYear()} Shotify AI. All rights reserved.
+            &copy; {new Date().getFullYear()} Pixelify. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link
@@ -442,7 +442,7 @@ export default function PrivacyPolicyPage() {
               Terms of Service
             </Link>
             <a
-              href="mailto:support@shotify.ai"
+              href="mailto:support@pixelify.ai"
               className="text-xs text-black/30 hover:text-black/60 transition-colors"
             >
               Contact

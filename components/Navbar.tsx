@@ -25,7 +25,7 @@ export default function Navbar() {
                 <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
               </svg>
             </div>
-            <span className="text-xl font-bold gradient-text">Shotify AI</span>
+            <span className="text-xl font-bold gradient-text">Pixelify</span>
           </a>
 
           <nav className="hidden lg:flex items-center gap-1">

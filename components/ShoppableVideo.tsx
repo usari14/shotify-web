@@ -63,7 +63,7 @@ export default function ShoppableVideo() {
           <h3 className="text-lg font-bold text-[#1a1a1a] mb-6">Storefront Setup (3 steps)</h3>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             {[
-              { num: '1', text: 'Create & publish a Shoppable Widget in Shotify AI.' },
+              { num: '1', text: 'Create & publish a Shoppable Widget in Pixelify.' },
               { num: '2', text: 'Go to Shopify Admin → Themes → Customize → Add "Shoppable Videos" block.' },
               { num: '3', text: 'Select your widget handle, adjust layout, save — widget reads live metaobject data.' },
             ].map((s) => (

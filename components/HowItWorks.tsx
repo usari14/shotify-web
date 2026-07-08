@@ -2,7 +2,7 @@ const steps = [
   {
     step: '01',
     title: 'Connect Your Store',
-    desc: 'Install Shotify AI from the Shopify App Store. Open the app from Apps in your admin — no separate dashboard to learn.',
+    desc: 'Install Pixelify from the Shopify App Store. Open the app from Apps in your admin — no separate dashboard to learn.',
     color: '#7c5cfc',
   },
   {
@@ -37,7 +37,7 @@ export default function HowItWorks() {
             From idea to published in <span className="gradient-text">4 simple steps</span>
           </h2>
           <p className="text-lg text-[#6b6b7b] leading-relaxed">
-            Shotify AI lives inside your Shopify admin. No switching tools, no exporting files — your entire visual workflow in one place.
+            Pixelify lives inside your Shopify admin. No switching tools, no exporting files — your entire visual workflow in one place.
           </p>
         </div>
 

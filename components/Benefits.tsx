@@ -56,7 +56,7 @@ export default function Benefits() {
             <LuZap size={12} /> Benefits
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-[#1a1a1a]">
-            Why merchants <span className="gradient-text">choose Shotify AI</span>
+            Why merchants <span className="gradient-text">choose Pixelify</span>
           </h2>
           <p className="text-lg text-[#6b6b7b] leading-relaxed">
             Designed for Shopify stores that need faster, on-brand visuals without a full photo studio.

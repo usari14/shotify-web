@@ -13,7 +13,7 @@ export default function CTABanner() {
               Ready to upgrade your product visuals?
             </h2>
             <p className="text-lg text-white/70 max-w-xl mx-auto mb-10 leading-relaxed">
-              Install Shotify AI from the Shopify App Store and start generating studio-quality
+              Install Pixelify from the Shopify App Store and start generating studio-quality
               product photos, shoppable videos, and Instagram posts — all from your admin.
             </p>
             <a

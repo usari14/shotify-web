@@ -1,8 +1,8 @@
 ================================================================================
-SHOTIFY AI — WEBSITE & MARKETING CONTENT
+PIXELIFY — WEBSITE & MARKETING CONTENT
 ================================================================================
-App name: Shotify AI
-Shopify handle: shotify-ai
+App name: Pixelify
+Shopify handle: pixelify-ai
 Platform: Embedded Shopify app (built on Gadget)
 Primary audience: Shopify merchants who want faster, on-brand product visuals and shoppable social content without a full photo studio.
 
@@ -13,7 +13,7 @@ Use the sections below on your marketing site, Shopify App Store listing, landin
 ================================================================================
 
 Option A (recommended):
-  Shotify AI — Studio-quality product photos, shoppable video, and Instagram publishing from inside Shopify.
+  Pixelify — Studio-quality product photos, shoppable video, and Instagram publishing from inside Shopify.
 
 Option B:
   Turn your catalog into scroll-stopping visuals. Generate, publish, and sell — without leaving your store admin.
@@ -25,7 +25,7 @@ Subheadline:
   Pick a product, choose a style, generate new images, apply them to your listings, run shoppable video widgets on your storefront, and post to Instagram — all from one embedded app.
 
 Primary CTA:
-  Install Shotify AI on Shopify
+  Install Pixelify on Shopify
 
 Secondary CTA:
   See how it works
@@ -34,13 +34,13 @@ Secondary CTA:
 2. ELEVATOR PITCH (50 words)
 ================================================================================
 
-Shotify AI helps Shopify stores create professional product photos using AI, manage a searchable library of every generation, add shoppable video carousels to the theme, connect Instagram for direct publishing, and track usage with built-in analytics. Less time on shoots and edits, more time selling.
+Pixelify helps Shopify stores create professional product photos using AI, manage a searchable library of every generation, add shoppable video carousels to the theme, connect Instagram for direct publishing, and track usage with built-in analytics. Less time on shoots and edits, more time selling.
 
 ================================================================================
 3. LONG DESCRIPTION (App Store / About page)
 ================================================================================
 
-Running a Shopify store means you always need better product images — for ads, PDPs, collections, email, and social. Shotify AI is an all-in-one visual commerce app that lives inside your Shopify admin.
+Running a Shopify store means you always need better product images — for ads, PDPs, collections, email, and social. Pixelify is an all-in-one visual commerce app that lives inside your Shopify admin.
 
 Generate new product photography from your existing catalog images and custom prompts, or use ready-made templates for studio, lifestyle, seasonal, and luxury looks. Review results before anything goes live, then apply images as featured, additional, or replacement media on the product — synced automatically to Shopify Files.
 
@@ -48,7 +48,7 @@ Keep every approved shot in your in-app Library with search by product or prompt
 
 Engage shoppers on-site with Shoppable Video widgets: upload image or video slides, link products, publish to Shopify metaobjects, and drop a theme block on any page. Track widget engagement with storefront analytics.
 
-Flexible plans and credit-based generation (via Mantle billing) scale with your catalog size. Whether you are launching SKUs weekly or refreshing a seasonal collection, Shotify AI is built to move creative work out of Photoshop and into your daily workflow.
+Flexible plans and credit-based generation (via Mantle billing) scale with your catalog size. Whether you are launching SKUs weekly or refreshing a seasonal collection, Pixelify is built to move creative work out of Photoshop and into your daily workflow.
 
 ================================================================================
 4. KEY FEATURES (main selling points)
@@ -174,14 +174,14 @@ Best for: fashion, beauty, electronics — categories where video drives convers
 • Merchants adding shoppable UGC-style video to PDPs and landing pages.
 • Brands publishing product launches to Instagram from the same tool they use for PDP images.
 
-Not ideal for: merchants who only need generic AI art unrelated to catalog products (Shotify is product- and Shopify-centric).
+Not ideal for: merchants who only need generic AI art unrelated to catalog products (Pixelify is product- and Shopify-centric).
 
 ================================================================================
 8. HOW IT WORKS (simple 4-step block for landing page)
 ================================================================================
 
 Step 1 — Connect your store
-  Install Shotify AI from the Shopify App Store. Open the app from Apps in your admin.
+  Install Pixelify from the Shopify App Store. Open the app from Apps in your admin.
 
 Step 2 — Generate visuals
   Select products, choose templates or custom prompts, and generate AI photos from your existing images.
@@ -198,7 +198,7 @@ Step 4 — Sell everywhere
 
 Short instructions for your docs/FAQ page:
 
-1. In Shotify AI, create and publish a Shoppable Widget (status: published, sync complete).
+1. In Pixelify, create and publish a Shoppable Widget (status: published, sync complete).
 2. In Shopify Admin → Online Store → Themes → Customize.
 3. Add the "Shoppable Videos" app block to the desired template/section.
 4. Enter the widget handle (from the app widget list).
@@ -211,7 +211,7 @@ Short instructions for your docs/FAQ page:
 
 Requirements:
 • Instagram Professional account (Business or Creator).
-• Meta app configured with valid OAuth redirect URL for your Shotify environment.
+• Meta app configured with valid OAuth redirect URL for your Pixelify environment.
 • For development: add Instagram Tester role in Meta Developer dashboard.
 
 In the app:
@@ -219,13 +219,13 @@ In the app:
 • To remove: Disconnect (does not open login). To link again: Reconnect Account.
 • Publish from Library with caption when status shows Connected.
 
-Note: Revoking access in Instagram/Facebook settings is separate from Disconnect inside Shotify.
+Note: Revoking access in Instagram/Facebook settings is separate from Disconnect inside Pixelify.
 
 ================================================================================
 11. FEATURE COMPARISON TABLE (copy for website)
 ================================================================================
 
-| Capability                    | Shotify AI |
+| Capability                    | Pixelify |
 |-------------------------------|------------|
 | AI product photo generation   | Yes        |
 | Custom prompts                | Yes        |
@@ -256,7 +256,7 @@ Note: Revoking access in Instagram/Facebook settings is separate from Disconnect
 13. FAQ (website / support)
 ================================================================================
 
-Q: Do I need professional photos before using Shotify?
+Q: Do I need professional photos before using Pixelify?
 A: You need at least one product image from Shopify to use as reference. More references (up to 6) usually improve consistency.
 
 Q: Will AI images replace my photos automatically?
@@ -268,7 +268,7 @@ A: Eight+ templates across Studio, Lifestyle, Brand, and Seasonal categories, pl
 Q: How do credits work?
 A: Templates show credit cost (most use 1 credit; premium styles may use more). Subscribe via Plans; generation consumes credits per Mantle billing.
 
-Q: Can I use Shotify without Instagram?
+Q: Can I use Pixelify without Instagram?
 A: Yes. Photo generation, library, and shoppable video work independently. Instagram is optional for publishing.
 
 Q: What account do I need for Instagram?
@@ -288,10 +288,10 @@ A: Yes. Use the Disconnect button on Connections. Reconnect opens OAuth only whe
 ================================================================================
 
 Meta title (60 chars):
-  Shotify AI | AI Product Photos & Shoppable Video for Shopify
+  Pixelify | AI Product Photos & Shoppable Video for Shopify
 
 Meta description (155 chars):
-  Generate studio-quality product images, run shoppable video widgets, publish to Instagram, and track usage — all inside your Shopify admin. Install Shotify AI.
+  Generate studio-quality product images, run shoppable video widgets, publish to Instagram, and track usage — all inside your Shopify admin. Install Pixelify.
 
 Keywords (natural use in copy):
   Shopify AI product photography, AI product images Shopify, shoppable video Shopify app, Instagram publish Shopify, product photo generator, e-commerce AI images
@@ -346,7 +346,7 @@ Features | How it works | Templates | Shoppable Video | Instagram | Pricing | FA
 19. LEGAL / TRUST FOOTER (short)
 ================================================================================
 
-Shotify AI is a third-party Shopify application. Product images are generated using AI; you are responsible for reviewing accuracy, trademarks, and advertising compliance before publishing. Instagram and Meta are trademarks of their respective owners. Shopify is a trademark of Shopify Inc.
+Pixelify is a third-party Shopify application. Product images are generated using AI; you are responsible for reviewing accuracy, trademarks, and advertising compliance before publishing. Instagram and Meta are trademarks of their respective owners. Shopify is a trademark of Shopify Inc.
 
 Support: [SUPPORT_EMAIL]
 Privacy policy: [YOUR_PRIVACY_URL]
@@ -356,7 +356,7 @@ Terms: [YOUR_TERMS_URL]
 20. ONE-PARAGRAPH PRESS / PARTNER BLURB
 ================================================================================
 
-Shotify AI is a Shopify embedded application that combines AI product photography, a merchant media library, shoppable video theme widgets backed by Shopify metaobjects, and Instagram Professional publishing with usage analytics. Merchants select catalog products, apply curated or custom visual styles, sync results to product media, and extend the same assets to social and onsite video experiences without leaving the Shopify admin.
+Pixelify is a Shopify embedded application that combines AI product photography, a merchant media library, shoppable video theme widgets backed by Shopify metaobjects, and Instagram Professional publishing with usage analytics. Merchants select catalog products, apply curated or custom visual styles, sync results to product media, and extend the same assets to social and onsite video experiences without leaving the Shopify admin.
 
 ================================================================================
 END OF FILE — Update pricing, URLs, and screenshots references before publishing.

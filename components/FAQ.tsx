@@ -2,7 +2,7 @@ import { LuCircleHelp, LuChevronDown } from 'react-icons/lu';
 
 const faqs = [
   {
-    q: 'Do I need professional photos before using Shotify AI?',
+    q: 'Do I need professional photos before using Pixelify?',
     a: 'You need at least one product image from Shopify to use as reference. More references (up to 6) usually improve consistency.',
   },
   {
@@ -18,7 +18,7 @@ const faqs = [
     a: 'Templates show credit cost (most use 1 credit; premium styles may use more). Subscribe via Plans in the app; generation consumes credits per Mantle billing.',
   },
   {
-    q: 'Can I use Shotify AI without Instagram?',
+    q: 'Can I use Pixelify without Instagram?',
     a: 'Yes. Photo generation, library, and shoppable video work independently. Instagram publishing is optional.',
   },
   {

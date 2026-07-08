@@ -8,9 +8,9 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Shotify AI | AI Product Photos & Shoppable Video for Shopify",
+  title: "Pixelify | AI Product Photos & Shoppable Video for Shopify",
   description:
-    "Generate studio-quality product images, run shoppable video widgets, publish to Instagram, and track usage — all inside your Shopify admin. Install Shotify AI.",
+    "Generate studio-quality product images, run shoppable video widgets, publish to Instagram, and track usage — all inside your Shopify admin. Install Pixelify.",
   keywords: [
     "Shopify AI product photography",
     "AI product images Shopify",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     "e-commerce AI images",
   ],
   openGraph: {
-    title: "Shotify AI | AI Product Photos & Shoppable Video for Shopify",
+    title: "Pixelify | AI Product Photos & Shoppable Video for Shopify",
     description:
       "Generate studio-quality product images, run shoppable video widgets, publish to Instagram, and track usage — all inside your Shopify admin.",
     type: "website",

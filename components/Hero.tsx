@@ -43,7 +43,7 @@ export default function Hero() {
             href="#"
             className="group w-full sm:w-auto px-8 py-4 rounded-2xl bg-[#7c5cfc] text-white font-semibold text-base hover:bg-[#6a4ce8] transition-all shadow-xl shadow-[#7c5cfc]/25 flex items-center justify-center gap-2"
           >
-            Install Shotify AI on Shopify
+            Install Pixelify on Shopify
             <LuArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </a>
           <a

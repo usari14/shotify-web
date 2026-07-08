@@ -25,7 +25,7 @@ export default function Testimonials() {
             Trusted by <span className="gradient-text">Shopify merchants</span>
           </h2>
           <p className="text-lg text-[#6b6b7b] leading-relaxed">
-            See what merchants are saying about Shotify AI.
+            See what merchants are saying about Pixelify.
           </p>
         </div>
 

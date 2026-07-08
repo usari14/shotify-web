@@ -26,7 +26,7 @@ const footerLinks: Record<
     { label: 'Careers', href: '#' },
     { label: 'Press', href: '#' },
     { label: 'Partners', href: '#' },
-    { label: 'Contact', href: 'mailto:support@shotify.ai' },
+    { label: 'Contact', href: 'mailto:support@pixelify.ai' },
     { label: 'Legal', href: '/privacy-policy' },
   ],
 };
@@ -44,7 +44,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-[#7c5cfc] to-[#00c4cc] bg-clip-text text-transparent">
-                Shotify AI
+                Pixelify
               </span>
             </a>
             <p className="text-sm text-white/50 max-w-xs leading-relaxed mb-5">
@@ -57,9 +57,9 @@ export default function Footer() {
                 </a>
               ))}
             </div>
-            <a href="mailto:support@shotify.ai" className="inline-flex items-center gap-2 text-sm text-white/40 hover:text-white/70 transition-colors">
+            <a href="mailto:support@pixelify.ai" className="inline-flex items-center gap-2 text-sm text-white/40 hover:text-white/70 transition-colors">
               <LuMail size={14} />
-              support@shotify.ai
+              support@pixelify.ai
             </a>
           </div>
 
@@ -81,14 +81,14 @@ export default function Footer() {
 
         <div className="mt-14 pt-8 border-t border-white/10 space-y-4">
           <p className="text-xs text-white/40 leading-relaxed max-w-3xl">
-            Shotify AI is a third-party Shopify application. Product images are generated using AI;
+            Pixelify is a third-party Shopify application. Product images are generated using AI;
             you are responsible for reviewing accuracy, trademarks, and advertising compliance before
             publishing. Instagram and Meta are trademarks of their respective owners. Shopify is a
             trademark of Shopify Inc.
           </p>
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
             <p className="text-xs text-white/30">
-              &copy; {new Date().getFullYear()} Shotify AI. All rights reserved.
+              &copy; {new Date().getFullYear()} Pixelify. All rights reserved.
             </p>
             <div className="flex items-center gap-6">
               <a href="/privacy-policy" className="text-xs text-white/30 hover:text-white/60 transition-colors">
